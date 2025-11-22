@@ -71,7 +71,7 @@ pip install nltk gensim
 1.  Ensure the dataset file (`dataset.csv`) is in the root directory.
 2.  Open the Jupyter Notebook:
     ```bash
-    jupyter notebook topic_modelling_pipelines_project.ipynb
+    jupyter notebook v1_current_topic_modelling_pipelines_project.ipynb
     ```
 3.  Run the cells sequentially. The notebook includes:
     *   Data Preprocessing.
