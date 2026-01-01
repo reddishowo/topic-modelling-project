@@ -128,6 +128,13 @@ If you use this code, experimental setup, or findings in your research, please c
   year    = {2025},
   keywords= {BERTopic, Topic Modeling, Transformer Models, NLP}
 }
+```
+
+## 📜 License
+
+This repository contains research code accompanying the paper  
+**“A Comparative Analysis of Transformer-Based Topic Modeling Pipelines for Scientific Literature”**  
+and is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 *Informatics Engineering, University of Muhammadiyah Malang, Indonesia*
