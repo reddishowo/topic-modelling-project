@@ -116,6 +116,20 @@ The performance was quantitatively benchmarked using the **$C_v$ Coherence Score
 *   **Farriel Arrianta Akbar Pratama**
 *   **Muhammad Eka Nur Arief**
 
+## 📖 Citation
+
+If you use this code, experimental setup, or findings in your research, please cite the following paper:
+
+```bibtex
+@article{pratama2025transformer_topic_modeling,
+  title   = {A Comparative Analysis of Transformer-Based Topic Modeling Pipelines for Scientific Literature},
+  author  = {Pratama, Farriel Arrianta Akbar and Arief, Muhammad Eka Nur and Nastiti, Vinna Rahmayanti Setyaning},
+  journal = {JUITA},
+  year    = {2025},
+  keywords= {BERTopic, Topic Modeling, Transformer Models, NLP}
+}
+
+
 *Informatics Engineering, University of Muhammadiyah Malang, Indonesia*
 
 ---
