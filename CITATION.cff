@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "A Comparative Analysis of Transformer-Based Topic Modeling Pipelines for Scientific Literature"
+message: "If you use this software or experiments in your research, please cite the associated paper."
+type: software
+
+authors:
+  - family-names: Pratama
+    given-names: Farriel Arrianta Akbar
+    affiliation: Informatics Engineering, University of Muhammadiyah Malang
+  - family-names: Arief
+    given-names: Muhammad Eka Nur
+    affiliation: Informatics Engineering, University of Muhammadiyah Malang
+  - family-names: Nastiti
+    given-names: Vinna Rahmayanti Setyaning
+    affiliation: Informatics Engineering, University of Muhammadiyah Malang
+    email: vinastiti@umm.ac.id
+
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/<your-username>/<your-repo>"
+
+keywords:
+  - Topic Modeling
+  - BERTopic
+  - SBERT
+  - RoBERTa
+  - Natural Language Processing
+  - Scientific Literature
+
+license: MIT
