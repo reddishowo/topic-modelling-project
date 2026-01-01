@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "A Comparative Analysis of Transformer-Based Topic Modeling Pipelines for Scientific Literature"
-message: "If you use this software or experiments in your research, please cite the associated paper."
+message: "If you use this software in your research, please cite it as below."
 type: software
 
 authors:
@@ -8,7 +8,7 @@ authors:
     given-names: Farriel Arrianta Akbar
     affiliation: Informatics Engineering, University of Muhammadiyah Malang
   - family-names: Arief
-    given-names: Muhammad Eka Nur
+    given-names: Muhammad Eka Nur 
     affiliation: Informatics Engineering, University of Muhammadiyah Malang
   - family-names: Nastiti
     given-names: Vinna Rahmayanti Setyaning
@@ -16,8 +16,8 @@ authors:
     email: vinastiti@umm.ac.id
 
 version: 1.0.0
-date-released: 2025-01-01
-url: "https://github.com/<your-username>/<your-repo>"
+date-released: 2025-11-22
+url: "https://github.com/reddishowo/topic-modelling-project"
 
 keywords:
   - Topic Modeling
